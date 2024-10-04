@@ -10,7 +10,7 @@ conv_df = pd.read_csv('conv2.csv')
 model_columns = conv_df.columns.drop('Time_Between_Flares')  # These are the columns the model expects
 
 # Set up the Streamlit app
-st.title('Flare Prediction App')
+st.title('Flare-Ion')
 st.write('This application predicts the occurrence of the next flare in days based on your input.')
 
 # Create a form for user input

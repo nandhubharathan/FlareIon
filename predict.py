@@ -2,18 +2,6 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-st.set_page_config(
-    page_title="Dark Mode App",
-    layout="wide",
-    initial_sidebar_state="expanded",
-    theme={
-        "primaryColor": "#1f1f1f",
-        "backgroundColor": "#0e1117",
-        "secondaryBackgroundColor": "#1c1f26",
-        "textColor": "#fafafa",
-    },
-)
-
 # Load the pre-trained RandomForest model
 model = joblib.load('rf_flare_predictor_regressor.pkl')
 

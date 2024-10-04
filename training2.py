@@ -7,10 +7,10 @@ from sklearnex import patch_sklearn
 import joblib
 
 # Load the dataset
-df = pd.read_csv('conv2.csv')
+df = pd.read_csv('conv3.csv')  # Updated dataset with severity included
 
 # Features and target variable
-X = df.drop('Time_Between_Flares', axis=1)
+X = df.drop('Time_Between_Flares', axis=1)  # Assuming 'Time_Between_Flares' is the target variable
 y = df['Time_Between_Flares']
 
 patch_sklearn()
@@ -41,17 +41,19 @@ rmse = mean_squared_error(y_test, y_pred_rounded, squared=False)
 print(f"Mean Absolute Error: {mae}")
 print(f"Root Mean Squared Error: {rmse}")
 
-# Cross-validation (using original y for cross-validation but rounded output for results)
+# Cross-validation
 cv_results = cross_validate(rf_regressor, X, y, cv=5, scoring=['neg_mean_absolute_error', 'neg_mean_squared_error'])
 
 # Print results of each fold
 print("Cross-validation results:")
 print("MAE:", -cv_results['test_neg_mean_absolute_error'])
-print("RMSE:", [-(-mse)**0.5 for mse in cv_results['test_neg_mean_squared_error']])  # Taking sqrt of negative MSE
+print("RMSE:", [(-mse) ** 0.5 for mse in cv_results['test_neg_mean_squared_error']])  # Taking sqrt of negative MSE
 
 # Print the average of each metric across all folds
 print("\nAverage MAE:", -cv_results['test_neg_mean_absolute_error'].mean())
-print("Average RMSE:", (-cv_results['test_neg_mean_squared_error'].mean())**0.5)
+print("Average RMSE:", (-cv_results['test_neg_mean_squared_error'].mean()) ** 0.5)
 
 # Save the trained model
 joblib.dump(rf_regressor, 'rf_flare_predictor_regressor.pkl')
+
+print("Trained model saved to 'rf_flare_predictor_regressor.pkl'")

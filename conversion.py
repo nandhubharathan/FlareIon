@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
 # Load the dataset
-file_path = 'dataset_modified.csv'
+file_path = 'dataset.csv'
 df = pd.read_csv(file_path)
 
 # Handle missing values: choose one method

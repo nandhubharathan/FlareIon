@@ -1,0 +1,1001 @@
+Age,Gender,Disease_Type,Genetic_Markers,Biomarkers,Environmental_Factors,Medical_History,Time_Between_Flares
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+30,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+42,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+50,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+33,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+48,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+36,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+55,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+44,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+38,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+29,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+30,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+42,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+50,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+33,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+48,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+36,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+55,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+44,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+38,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+29,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+30,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+42,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+50,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+33,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+48,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+36,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+55,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+44,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+38,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+29,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+30,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+42,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+50,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+33,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+48,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+36,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+55,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+44,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+38,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+29,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+30,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+42,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+50,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+33,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+48,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+36,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+55,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+44,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+38,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+29,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+30,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+30,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,
+25,Male,Graves' Disease,TSHR,Elevated TSI,Low Iodine Intake,,
+42,Female,Myasthenia Gravis,AChR,Elevated Acetylcholine Receptor Antibodies,,Asthma,301
+53,Male,Addison's Disease,HLA DRB1,Low Cortisol,High Altitude Living,,127
+39,Female,Psoriasis,IL12B,High IL 17,Urban Living,Obesity,
+45,Female,Rheumatoid Arthritis,HLA DRB1,High CRP,Smoking,Hypertension,269
+28,Male,Lupus,HLA DR3,High ANA,Urban Living,,178
+34,Female,Hashimoto's Thyroiditis,CTLA4,High TPO Antibodies,Air Pollution,Type 2 Diabetes,
+40,Male,Multiple Sclerosis,IL7R,Elevated IL 6,High Stress Job,,237
+52,Female,Type 1 Diabetes,HLA DQB1,High Blood Sugar,Rural Area,High Blood Pressure,54
+37,Female,Sjögren's Syndrome,STAT4,High RF,Smoking,Asthma,

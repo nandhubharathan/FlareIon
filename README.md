@@ -9,9 +9,7 @@ This is a prediction model which predicts the next flare occurrence of the user 
 - ### [Usage](#Usage)
 - ### [Features](#Features)
 - ### [Model Details](#Model-Details)
-- ### [Genomic Data Integration](Genomic-Data-Integration)
 - ### [Contributing](#Contributing)
-- ### [License](#License)
 - ### [Contact](#Contact)
 
 ## Installation

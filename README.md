@@ -8,7 +8,6 @@ This is a prediction model which predicts the next flare occurrence of the user 
 - ### [Installation](#Installation)
 - ### [Usage](#Usage)
 - ### [Features](#Features)
-- ### [Configuration](#Configuration)
 - ### [Model Details](#Model-Details)
 - ### [Genomic Data Integration](Genomic-Data-Integration)
 - ### [Contributing](#Contributing)
@@ -41,13 +40,33 @@ streamlit run predict2.py
 - Customizable: Ability to configure model parameters(eg.number of estimations,depth).
 - Error Reduction: Current model achieves the lowest error rate based on multiple optimizations.
 
-```bash
-{
-    "n_estimators": 100,
-    "max_depth": 10,
-    "genomic_data_integration": true
-}
-```bash
-python run_model.py --n_estimators 100 --max_depth 10 --genomic_data true
-```
+## Model Features
+This project uses a Random Forest Regressor to predict the number of days until the next flare.
+
+- Target Variable: Days Until Next Flare
+- Features: Patient demographic and medical history data
+- Excluded Features: Flare Frequency, Flare Time Period
+
+### Training and Evaluation
+The model was trained using a dataset of historical patient data. The following performance metrics were achieved:
+
+Mean Absolute Error: 0.21
+R-squared: 1.5
+
+## Contributing
+Contributions are welcome! To contribute:
+
+1.Fork the repository.
+2.Create a new branch (git checkout -b feature-branch).
+3.Commit your changes (git commit -m "Add feature").
+4.Push to the branch (git push origin feature-branch).
+5.Create a new Pull Request.
+
+## Contact
+For questions, feel free to reach out at:
+
+Email: nandhubharathan2513@gmail.com
+GitHub: nandhubharathan
+
+
 

@@ -76,35 +76,63 @@ if st.button('Predict Next Flare'):
 
     # Calculate severity based on input data
     severity_score = 0
-    # Example severity logic (you can expand this as per your requirement)
+    reasons_for_severity = []
+
+    # Example severity logic (expand based on your data):
     genetic_markers = input_data['Genetic_Markers'][0]
     if genetic_markers == 'HLA DR3':
         severity_score += 2
+        reasons_for_severity.append("Genetic marker HLA DR3 is associated with increased severity.")
     elif genetic_markers == 'HLA DRB1':
         severity_score += 2
+        reasons_for_severity.append("Genetic marker HLA DRB1 is linked with higher flare risk.")
     elif genetic_markers == 'IL12B':
         severity_score += 1
+        reasons_for_severity.append("Genetic marker IL12B indicates a slightly increased risk.")
 
     biomarkers = input_data['Biomarkers'][0]
     if biomarkers == 'Elevated IL 6':
         severity_score += 2
+        reasons_for_severity.append("Elevated IL 6 is a known biomarker for inflammation, contributing to severity.")
     elif biomarkers == 'High ANA':
         severity_score += 3
+        reasons_for_severity.append("High ANA levels are directly linked to auto-immune severity.")
 
     medical_history = input_data['Medical_History'][0]
     if medical_history == 'Asthma':
         severity_score += 1
+        reasons_for_severity.append("Asthma history adds mild severity risk.")
     elif medical_history == 'Obesity':
         severity_score += 2
+        reasons_for_severity.append("Obesity significantly contributes to flare severity.")
 
     # Determine severity level based on severity score
     if severity_score >= 5:
         severity_level = "Severe"
     elif 2 <= severity_score < 5:
-        severity_level = "Moderate Severe"
+        severity_level = "Moderately Severe"
     else:
         severity_level = "Less Severe"
+
+    # Generate explanation for flare-up risk
+    reasons_for_flare_up = []
+    if biomarkers == 'High ANA' or biomarkers == 'Elevated IL 6':
+        reasons_for_flare_up.append(f"Biomarkers such as {biomarkers} indicate an immune system imbalance, which can trigger a flare-up.")
+    if Environmental_Factors == 'High Stress Job':
+        reasons_for_flare_up.append("High stress levels can trigger an immune response and lead to a flare-up.")
+    if medical_history in ['Asthma', 'Obesity', 'Type 2 Diabetes']:
+        reasons_for_flare_up.append(f"Your medical history, including {medical_history}, contributes to the likelihood of a flare-up.")
 
     # Display the results
     st.subheader(f"The flare is predicted to occur in {prediction_rounded} days.")
     st.subheader(f"Severity Level: {severity_level}")
+
+    # Display reasons for severity
+    st.write("**Reasons for Severity:**")
+    for reason in reasons_for_severity:
+        st.write(f"- {reason}")
+
+    # Display reasons for flare-up likelihood
+    st.write("**Reasons why a flare-up may happen:**")
+    for reason in reasons_for_flare_up:
+        st.write(f"- {reason}")

@@ -1,16 +1,8 @@
-# FlareIon_oneAPI_hack_kpr
-This is a prediction model which predict next flare occurrence of the user 
+# FlareIon_flare prediction app
+this a machine learning-powered web application that predicts the number of days until the next autoimmune flare, based on patient-specific input data such as age, gender, disease type, biomarkers, genetic markers, environmental factors, and medical history.
 
 ## Description
 This is a prediction model which predicts the next flare occurrence of the user using a set of data.The RandomForestRegressor algorithm is trained for the prediction 
-
-## Table Of Contents
-- ### [Installation](#Installation)
-- ### [Usage](#Usage)
-- ### [Features](#Features)
-- ### [Model Details](#Model-Details)
-- ### [Contributing](#Contributing)
-- ### [Contact](#Contact)
 
 ## Installation
 To get started with the project , clone the repository and install the required dependencies.
@@ -39,7 +31,7 @@ streamlit run predict2.py
 - Error Reduction: Current model achieves the lowest error rate based on multiple optimizations.
 
 ## Model Features
-This project uses a Random Forest Regressor to predict the number of days until the next flare.
+The model uses a Random Forest Regressor trained on synthetic medical data to estimate the interval between autoimmune flares.
 
 - Target Variable: Days Until Next Flare
 - Features: Patient demographic and medical history data
